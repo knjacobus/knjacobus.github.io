@@ -5,4 +5,7 @@ My name is Kendal Jacobus. I am a senior biology major at Lehigh University. Thi
 Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for my academic and work experience. 
 
 
+
+
+
 ![Photo of me](https://github.com/knjacobus/knjacobus.github.io/blob/master/0.jpg?raw=true)
