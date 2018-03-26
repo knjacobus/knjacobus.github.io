@@ -11,4 +11,4 @@ Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for 
 ![Photo of me](https://github.com/knjacobus/knjacobus.github.io/blob/master/0.jpg?raw=true)
 
 
-First in-class Practice Infographic: "What Major Are you?"(https://github.com/knjacobus/knjacobus.github.io/blob/master/What%20major%20are%20you_.png)
+First in-class Practice Infographic: ["What Major Are you](https://github.com/knjacobus/knjacobus.github.io/blob/master/What%20major%20are%20you_.png)
