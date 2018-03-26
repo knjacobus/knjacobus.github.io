@@ -12,4 +12,4 @@ Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for 
 
 
 First in-class Practice Infographic: 
-![What Major Are you?](https://github.com/knjacobus/knjacobus.github.io/blob/master/What%20major%20are%20you_.png)
+![What Major Are you?](https://github.com/knjacobus/knjacobus.github.io/blob/master/What%20major%20are%20you_.png?raw=true)
