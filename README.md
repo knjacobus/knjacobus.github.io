@@ -15,3 +15,4 @@ First in-class Practice Infographic:
 ![What Major Are you?](https://github.com/knjacobus/knjacobus.github.io/blob/master/What%20major%20are%20you_.png?raw=true)
 
 In the United States (US) flu vaccination for children is still remarkably low given the known risks and danger flue season poses to young kids. However, with a push in education and urgency in public health, flue vaccination rates in children are continuously increasing. According the the Center of Disease Control and Prevention (CDC), vaccination rates rose from 43% to 59.3% since 2010. While these statistics are encouraging, vaccination rates still need to increase to ensure the utmost protection against the flu for both children and adults. 
+![Chid Influenza Vaccination Rates](knjacobus.github.io/child flu vaccination rates.pdf)
