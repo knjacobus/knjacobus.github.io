@@ -28,3 +28,5 @@ A Historical Timeline of the Development of Early Impactful Vaccines for our Soc
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1A-bAMyW081kJBczeujw-KJibGlpwkvaDYI21mDTRHGk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ![Practice Chartbuilding activity:](https://github.com/knjacobus/knjacobus.github.io/blob/master/The_Three_Most_Populous_Countries__China_India_US_chartbuilder.png?raw=true)
+
+![Practice: Lehigh University College Enrollment Over 10 Years](https://github.com/knjacobus/knjacobus.github.io/blob/master/Lehigh_University's_College_Enrollment_over_10_years__Arts_&_Sciences_Business_&_Economics_Engineering_&_Applied_Sciences_chartbuilder.png?raw=true)
