@@ -33,3 +33,5 @@ A Historical Timeline of the Development of Early Impactful Vaccines for our Soc
 
 This chart shows the national coverage of influenza vaccination of adults in three different age groups over a span of 10 years. As you will see in the data, the age group of 18-49 years old consistently has the lowest percentage of individuals vaccinated each year. I think there could be a lot done on college campuses to improve this statistic for influenza vaccination and protection. 
 ![2006-2016 Influenza Vaccination Coverage by Age Group](https://github.com/knjacobus/knjacobus.github.io/blob/master/2006-2016_Influenza_Vaccine_Coverage_by_Age_Group_65_years_old_and_older_18-49_years_old_50-64_years_old_chartbuilder%20(1).png?raw=true)
+
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1HgcoQrxZR0BcB-cz4A56f3dQ7eh6-yI_5zz49M7l&amp;viz=MAP&amp;h=false&amp;lat=40.6136600167467&amp;lng=-75.37048535288693&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
