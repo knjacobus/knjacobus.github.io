@@ -36,6 +36,7 @@ This chart shows the national coverage of influenza vaccination of adults in thr
 
 <iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1HgcoQrxZR0BcB-cz4A56f3dQ7eh6-yI_5zz49M7l&amp;viz=MAP&amp;h=false&amp;lat=40.6136600167467&amp;lng=-75.37048535288693&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+Where can Lehigh Student's get their flu shots?
 <iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+18nIsQ4BonmiYduMNWCs8jK7f2Iz3Aut7qDXeu6PH&amp;viz=MAP&amp;h=false&amp;lat=40.61258887680269&amp;lng=-75.46196136589356&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 
