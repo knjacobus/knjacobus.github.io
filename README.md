@@ -28,9 +28,10 @@ The development of immunization was really discovered by accident. However, beca
 
 
 **2006-2016 Influenza Vaccination Coverage by Age Group in the United States:**
+
 This chart shows the national coverage of influenza vaccination of adults in three different age groups over a span of 10 years. As you will see in the data, the age group of 18-49 years old consistently has the lowest percentage of individuals vaccinated each year. I think there could be a lot done on college campuses to improve this statistic for influenza vaccination and protection. 
 
-![2006-2016 Influenza Vaccination Coverage by Age Group](https://github.com/knjacobus/knjacobus.github.io/blob/master/2006-2016_Influenza_Vaccine_Coverage_by_Age_Group_65_years_old_and_older_18-49_years_old_50-64_years_old_chartbuilder%20(1).png?raw=true)
+![2006-2016 Influenza Vaccination Coverage by Age Group](https://github.com/knjacobus/knjacobus.github.io/blob/master/2006-2016_Influenza_Vaccine_Coverage_by_Age_Group_65_years_old_and_older_50-64_years_old_18-49_years_old_chartbuilder.png?raw=true)
 
 
 **5 closeset places for Lehigh Students to get a Flu Shot**
