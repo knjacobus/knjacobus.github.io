@@ -38,7 +38,7 @@ This chart shows the national coverage of influenza vaccination of adults in thr
 
 This map shows the five closest places that Lehigh students can easily go to and get a flu shot during flu season. Whether students walk, uber or drive themselves to these locations, it is critical that our student body takes the initiative to get vaccinated. In doing so, they will not only be protecting themselves, but most importantly be protecting their friends, peers, professors and co-workers that come in contact with them on a daily basis. 
 
-<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+18nIsQ4BonmiYduMNWCs8jK7f2Iz3Aut7qDXeu6PH&amp;viz=MAP&amp;h=false&amp;lat=40.61258887680269&amp;lng=-75.46196136589356&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Ml4YBpU6mMhFlnBcMkI4ZSaOCNfFtJfbWV9YHhSJ&amp;viz=MAP&amp;h=false&amp;lat=40.64317285282817&amp;lng=-75.38891945&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 
 **Are vaccine-preventable diseases still affecting the world today?**
