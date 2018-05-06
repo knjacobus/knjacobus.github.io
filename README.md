@@ -20,7 +20,7 @@ The development of immunization was really discovered by accident. However, beca
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1A-bAMyW081kJBczeujw-KJibGlpwkvaDYI21mDTRHGk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Progress and Improvement of Immunization Rates amongst Different Age Groups of the United States ##
+## The Progress and Improvement of Immunization Rates ##
 
 **United States Child Influenza Vaccination Rates between 2010-2015:**
 
@@ -43,7 +43,7 @@ This map shows the five closest places that Lehigh students can easily go to and
 
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Ml4YBpU6mMhFlnBcMkI4ZSaOCNfFtJfbWV9YHhSJ&amp;viz=MAP&amp;h=false&amp;lat=40.64317285282817&amp;lng=-75.38891945&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-## Global Impact of Disease and Immunization ##
+## The Global Impact of Disease and Immunization ##
 
 **Vaccine-preventable diseases and their effect on the world today**
 
