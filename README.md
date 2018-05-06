@@ -21,6 +21,7 @@ In the United States (US) flu vaccination for children is still remarkably low g
 
 
 **A Historical Timeline of the Development of Early Impactful Vaccines for our Society's Health:**
+
 The development of immunization was really discovered by accident. However, because of the danger of certain diseases in the 1700s, people, especially mothers, were willing to let their children be the subjects of early vaccination in hopes that the vaccine would protect their kids. Now, vaccinations have improved the overall health of society and come close to eradicating diseases like polio, small pox and measles. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1A-bAMyW081kJBczeujw-KJibGlpwkvaDYI21mDTRHGk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
