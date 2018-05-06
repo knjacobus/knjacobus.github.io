@@ -13,6 +13,7 @@ Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for 
 
 
 **United States Child Influenza Vaccination Rates between 2010-2015:**
+
 In the United States (US) flu vaccination for children is still remarkably low given the known risks and danger flu season poses to young kids. However, with a push in education and urgency in public health, flu vaccination rates in children are continuously increasing. According the the Center of Disease Control and Prevention (CDC), vaccination rates have rose from 43% to 59.3% since 2010. While these statistics are encouraging, vaccination rates still need to increase to ensure the utmost protection against the flu for both children and adults. 
 ![Child Influenza Vaccination Rates between 2010-2015:](https://github.com/knjacobus/knjacobus.github.io/blob/master/Child%20Influenza%20Vaccination%20Rates.png?raw=true)
 
