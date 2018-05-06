@@ -1,7 +1,7 @@
-# Kendal Jacobus's Data Visualization Portfolio #
+# **Kendal Jacobus's Data Visualization Portfolio** #
 # About Me #
 
-My name is Kendal Jacobus. I am a senior biology major at Lehigh University. This is my digital portfolio that holds any projects I have completed for J24 visual communications class.
+My name is Kendal Jacobus. I am a senior biology major at Lehigh University. Not only am I passionate about my school work, but I am also passionate about the health of our society. For the future well-being of the world, it is critical to understand the impact that immunization has had in saving lives and allowing us and our loved-ones to live a more safe, long and healthy life. Through this portfolio I hope readers understand that vaccination is not only critical for the protection of your own health, but also for the protection of those around you.  
 
 Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for my academic and work experience. 
 
@@ -12,7 +12,7 @@ Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for 
 ![Photo of me](https://github.com/knjacobus/knjacobus.github.io/blob/master/0.jpg?raw=true)
 
  
-# The Beginning of Vaccines #
+## The Beginning of Vaccines ##
 
 **A Historical Timeline of the Development of Early Impactful Vaccines for our Society's Health:**
 
@@ -20,7 +20,7 @@ The development of immunization was really discovered by accident. However, beca
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1A-bAMyW081kJBczeujw-KJibGlpwkvaDYI21mDTRHGk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Progress and Areas of Improvement of Immunization Rates amongst Different Age Groups of the United States #
+## Progress and Improvement of Immunization Rates amongst Different Age Groups of the United States ##
 
 **United States Child Influenza Vaccination Rates between 2010-2015:**
 
@@ -34,7 +34,7 @@ This chart shows the national coverage of influenza vaccination of adults in thr
 
 ![2006-2016 Influenza Vaccination Coverage by Age Group](https://github.com/knjacobus/knjacobus.github.io/blob/master/2006-2016_Influenza_Vaccine_Coverage_by_Age_Group_65_years_old_and_older_50-64_years_old_18-49_years_old_chartbuilder.png?raw=true)
 
-# Easy Ways to Improve the Health and Protection of your Local Community #
+## Easy Ways to Improve the Health and Protection of Your Community ##
 
 **5 closeset places for Lehigh Students to get a Flu Shot**
 
@@ -42,7 +42,7 @@ This map shows the five closest places that Lehigh students can easily go to and
 
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Ml4YBpU6mMhFlnBcMkI4ZSaOCNfFtJfbWV9YHhSJ&amp;viz=MAP&amp;h=false&amp;lat=40.64317285282817&amp;lng=-75.38891945&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-# Impact of Disease and Immunization around the World #
+## Impact of Disease and Immunization around the World ##
 
 **Vaccine-preventable diseases and their effect on the world today**
 
