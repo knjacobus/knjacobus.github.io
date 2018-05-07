@@ -1,7 +1,7 @@
 # **Kendal Jacobus's Data Visualization Portfolio** #
 ## About Me ##
 
-My name is Kendal Jacobus. I am a senior biology major at Lehigh University. Not only am I passionate about my school work, but I am also passionate about the health of our society. For the future well-being of the world, it is critical to understand the impact that immunization has had in saving lives and allowing us and our loved-ones to live a more safe, long and healthy life. Through this portfolio I hope readers understand that vaccination is not only critical for the protection of your own health, but also for the protection of those around you.  
+My name is Kendal Jacobus. I am a senior biology major at Lehigh University. Not only am I passionate about my school work, but I am also passionate about public health. Therefore, it is critical to understand the impact that immunization has had in saving lives and allowing us and our loved-ones to live a more safe, long and healthy life. Through this portfolio I hope readers understand that vaccination is not only critical for the protection of your own health, but also for the protection of those around you.  
 
 Please visit my [LinkedIn page](https://www.linkedin.com/in/kendaljacobus/) for my academic and work experience. 
 
@@ -24,14 +24,14 @@ The development of immunization was really discovered by accident. However, beca
 
 **United States Child Influenza Vaccination Rates between 2010-2015:**
 
-In the United States (US) flu vaccination for children is still remarkably low given the known risks and danger flu season poses to young kids. However, with a push in education and urgency in public health, flu vaccination rates in children are continuously increasing. According the the Center of Disease Control and Prevention (CDC), vaccination rates have rose from 43% to 59.3% since 2010. While these statistics are encouraging, vaccination rates still need to increase to ensure the utmost protection against the flu for both children and adults. 
+In the United States (US), flu vaccination for children is still remarkably low given the known risks and danger flu season poses to young kids. However, with a push in education and urgency in public health, flu vaccination rates in children are continuously increasing. According the the Center of Disease Control and Prevention (CDC), vaccination rates have rose from 43% to 59.3% since 2010. While these statistics are encouraging, vaccination rates still need to increase to ensure the utmost protection against the flu for both children and adults. 
 
 ![Child Influenza Vaccination Rates between 2010-2015:](https://github.com/knjacobus/knjacobus.github.io/blob/master/final%20final%20infographic.png?raw=true)
 
 
 **2006-2016 Influenza Vaccination Coverage by Age Group in the United States**
 
-This chart shows the national coverage of influenza vaccination of adults in three different age groups over a span of 10 years. As you will see in the data, the age group of 18-49 years old consistently has the lowest percentage of individuals vaccinated each year. I think there could be a lot done on college campuses to improve this statistic for influenza vaccination and protection. 
+This chart shows the national coverage of influenza vaccination of adults in three different age groups over a span of 10 years. As you will see in the data, the age group of 18-49 years old consistently has the lowest percentage of individuals vaccinated each year. Unfortunately, this age group is also most likely to be around younger children and senior citizens during this time of their lives as well. Because of this, there needs to be more of an effort made to immunize 18-49 year olds in order to not only better protect them, but also their more vulnerable loved ones.
 
 ![2006-2016 Influenza Vaccination Coverage by Age Group](https://github.com/knjacobus/knjacobus.github.io/blob/master/2006-2016_Influenza_Vaccine_Coverage_by_Age_Group_65_years_old_and_older_50-64_years_old_18-49_years_old_chartbuilder.png?raw=true)
 
